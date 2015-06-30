@@ -9,14 +9,14 @@ Running the game:
 - On 32-bit Linux, re-compilation is required (see Compiling)
 
 Controls:
-Up - Accelerate
-Down - Decelerate
-Left - Turn left
-Right - Turn right
-A - Punch left
-D - Punch right
-C - Switch camera
-E - Switch environment
+- Up - Accelerate
+- Down - Decelerate
+- Left - Turn left
+- Right - Turn right
+- A - Punch left
+- D - Punch right
+- C - Switch camera
+- E - Switch environment
 
 Please note:
 - There is no collision detection or scoring for now.
